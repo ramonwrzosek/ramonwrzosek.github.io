@@ -55,6 +55,7 @@ table.table a {
 figure,
 img {
   max-width: 90vw;
+  pointer-events: none;
 }
 
 blockquote {
@@ -88,6 +89,7 @@ blockquote {
 
   img {
     width: 100%;
+    pointer-events: none;
   }
 
   .card-title {
