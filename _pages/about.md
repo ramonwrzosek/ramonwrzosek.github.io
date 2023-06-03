@@ -22,7 +22,7 @@ Please feel free to check my [projects](https://ramonwrzosek.github.io/projects)
 
 Let me know if they are useful, constructive feedback is always welcome!
 
-✉️ `firstName {dot} lastName {at} rice {dot} edu`
+✉️ `firstName.lastName {at} rice.edu`
 
 👔 [LinkedIn](https://www.linkedin.com/in/ramon-wrzosek/)  👨‍🔬[ORCID](https://orcid.org/0000-0002-2200-0592)
 
