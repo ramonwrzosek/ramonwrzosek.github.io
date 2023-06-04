@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: Please feel free to click on the projects below to learn more about my research, and to see some of the pictures I take during my free time (it seems Chrome browser is not loading the pictures properly. I'm actively working to fix this, in the meantime please feel free to load this website on mobile or a different browser, thank you!).
 nav: true
 nav_order: 2
 display_categories: [Research, Photos]
