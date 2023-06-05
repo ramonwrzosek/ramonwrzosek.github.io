@@ -2,12 +2,12 @@
 layout: page
 title: Protoplanetary Disks
 description:
-img:
+img: assets/img/HLTau_ALMA-NRAO.jpg
 importance: 3
 category: Research
 ---
 
-Protoplanetary disks (PPDs) are the places where planets are formed. Imagine our Solar system but in its early/baby stages. These disks are found around young stars which are also in their initial stages of formation, thus we sometimes call them young stellar objects (YSOs). In the image below you can see the PPD around the young star HL Tauri (HL Tau). You can see different structures like multiple dark gaps, and disks that go from dark red to bright yellow colors.
+Protoplanetary disks (PPDs) are the places where planets are formed. Imagine our Solar system but in its early/baby stages. These disks are found around young stars which are also in their initial stages of formation, thus we sometimes call them young stellar objects (YSOs). The image below is a radio observation of the PPD around the young star HL Tauri (HL Tau). You can see different structures like multiple dark gaps, and disks that go from dark red to bright yellow colors.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
